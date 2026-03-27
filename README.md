@@ -5,7 +5,7 @@ It computes **imported linguistic entropy**, summarizing the diversity of a coun
 
 The repository includes underlying data (with placeholders where required), the scripts used for computation, the resulting imported entropy outcomes, and the regression analyses.
 
-The methodology is described in detail in the paper [Language on the move: Migration and linguistic diversity]([(https://zenodo.org/records/19254845)]).
+The methodology is described in detail in the paper [Language on the move: Migration and linguistic diversity](https://zenodo.org/records/19254845).
 
 ## 📁 Repository Structure
 
