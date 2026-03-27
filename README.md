@@ -3,10 +3,9 @@
 MigLingDiv provides a framework to analyze how migration shapes linguistic diversity.  
 It computes **imported linguistic entropy**, summarizing the diversity of a country’s migration stock by weighting each origin country’s linguistic diversity according to its share of migrants. This measure is built on **bilateral migration stock data and country-level linguistic diversity**. 
 
-The methodology is described in the paper [Language on the move: Migration and linguistic diversity]([preprint/MigLingDiv_preprint.pdf](https://zenodo.org/records/19254845)).
-
 The repository includes underlying data (with placeholders where required), the scripts used for computation, the resulting imported entropy outcomes, and the regression analyses.
 
+The methodology is described in detail in the paper [Language on the move: Migration and linguistic diversity]([preprint/MigLingDiv_preprint.pdf](https://zenodo.org/records/19254845)).
 
 ## 📁 Repository Structure
 
