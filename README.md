@@ -52,6 +52,7 @@ To ensure reproducibility, **placeholder files** are included in this repository
 ## 📜 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
 The included migration_stock.xlsx dataset is used under its original license: United Nations Department of Economic and Social Affairs, Population Division (2024). International Migrant Stock 2024: Destination and origin, © 2024 United Nations, available under CC BY 3.0 IGO
 .
 ## 🎓 Acknowledgments
